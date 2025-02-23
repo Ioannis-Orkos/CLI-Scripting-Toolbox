@@ -6,37 +6,29 @@
  This repository aims to cover different terminals, CLI tools, scripting projects of my own, and others. 
 
 #
-- Command-line environments and their usage.
-- CLI-Based tools.
-- Covers the setup, usage and management of development environments.
-- Various scripting techniques and usage.
-#
-- AI-related CLI tools and frameworks.
-- Setting up and using llama.cpp for AI-related tasks.
-#
-- Networking and Server Management via CLI.
-- Security and Encryption in CLI Environments.
-- Other programming and scripting frameworks.
-#
-
 
 ### Terminals
 
->This section focuses on various command-line environments and their usage.
+> This section focuses on various command-line environments and their usage. <br> 
+> Scripts, scripting techniques and usage. 
 
-- [Termux]()
+
+- [Termux](docs/termux/README.md)
 - [Windows Command Prompt (CMD)]()	
 - [Powershell7.X]()
 
 ##
 
-
-
 ### CLI Tools
 >A collection of essential and development CLI-Based Tools.
 
-- Version control
+- Setup and management of development via CLI tools. 
+- Networking and Server Management via CLI.
+- Security and Encryption in CLI environments.
+- Other CLI system tools.
+#
 
+- Version control
 	- [Git]()
 
 -  Programing
@@ -57,6 +49,9 @@
 
 ### Projects
 >AI-related CLI tools and frameworks.
+
+>Buliding, Setting up and using of llama.cpp for AI-related tasks.
+
 - [llama.cpp]()
 
 ##
